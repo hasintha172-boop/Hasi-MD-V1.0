@@ -1,5 +1,5 @@
 <h1 align="center" style="font-weight:bold;">
-⚡ H A S I   M D ⚡
+⚡ H A S I _ M D ⚡
 </h1>
 
 <p align="center">
